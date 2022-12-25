@@ -39,4 +39,4 @@
 
 ## License
 
-[MIT](https://github.com/sveltejs/kit/blob/master/LICENSE)
+[MIT](https://github.com/Technicalflight/CryptoMi/blob/main/LICENSE)
