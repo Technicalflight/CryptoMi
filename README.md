@@ -19,7 +19,7 @@
 
 ## 运行截图
 
-![image-20221225212948520](C:\Users\simple\AppData\Roaming\Typora\typora-user-images\image-20221225212948520.png)
+![image-20221225212948520](https://www.helloimg.com/image/oBknZ9)
 
 ## 后续
 
