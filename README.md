@@ -20,7 +20,7 @@
 ## 运行截图
 
 ![image-20221225212948520](https://www.helloimg.com/image/oBknZ9)
-
+![notion avatar](https://www.helloimg.com/image/oBknZ9)
 ## 后续
 
 1.加入快捷键来调用该工具(你也可以自己写)
