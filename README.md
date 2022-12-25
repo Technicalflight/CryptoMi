@@ -19,8 +19,8 @@
 
 ## 运行截图
 
-![image-20221225212948520](https://www.helloimg.com/image/oBknZ9)
-![notion avatar](https://www.helloimg.com/image/oBknZ9)
+[![运行截图](https://www.helloimg.com/images/2022/12/25/oBknZ9.png)](https://www.helloimg.com/image/oBknZ9)
+
 ## 后续
 
 1.加入快捷键来调用该工具(你也可以自己写)
